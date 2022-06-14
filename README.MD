@@ -1,3 +1,5 @@
+# version del curso
+version actual: v1.2.2
 soy un readme.
 # cabecera h1
 ## cabecera h2
